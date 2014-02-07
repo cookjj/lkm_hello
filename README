@@ -1,4 +1,4 @@
-Corrects lack of Tabs in makefile rules in tutorial.
+Corrects lack of Tabs in makefile rules in tutorial (http://blog.markloiseau.com/2012/04/hello-world-loadable-kernel-module-tutorial/).
 
 NB: Make sure to run `insmod' and not `modprobe' on the .ko generated
 on Ubantu OS.
