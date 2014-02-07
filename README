@@ -1,0 +1,8 @@
+Corrects lack of Tabs in makefile rules in tutorial.
+
+NB: Make sure to run `insmod' and not `modprobe' on the .ko generated
+on Ubantu OS.
+
+--jjc.
+
+
